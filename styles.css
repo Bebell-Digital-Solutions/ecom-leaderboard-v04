@@ -531,8 +531,8 @@ body {
   justify-content: center;
   align-items: flex-end;
   gap: 30px;
-  margin-bottom: 00px;
-  padding: 40px 20px 40px 20px;
+  margin-bottom: 40px;
+  padding: 40px 20px 0 20px;
   background: var(--bg-primary);
   border-radius: 16px;
   box-shadow: var(--shadow-lg);
