@@ -92,7 +92,7 @@ body {
 
 /* Container */
 .container {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 40px 20px;
   flex-grow: 1;
@@ -577,7 +577,7 @@ body {
 }
 
 .podium-medal {
-  font-size: 48px;
+  font-size: 58px;
   line-height: 1;
 }
 
