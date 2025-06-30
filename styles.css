@@ -531,12 +531,12 @@ body {
   justify-content: center;
   align-items: flex-end;
   gap: 30px;
-  margin-bottom: 40px;
+  margin-bottom: 00px;
   padding: 40px 20px 40px 20px;
   background: var(--bg-primary);
   border-radius: 16px;
   box-shadow: var(--shadow-lg);
-  min-height: 280px;
+  min-height: 380px;
 }
 
 .podium-item {
